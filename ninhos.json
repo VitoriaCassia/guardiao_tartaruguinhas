@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "regiao": "Praia Norte",
+        "ovos": 12,
+        "status": "Intacto",
+        "risco": "Estável 🟢",
+        "dias": 3,
+        "predadores": "Sim"
+    },
+    {
+        "id": 2,
+        "regiao": "Praia Central",
+        "ovos": 13,
+        "status": "Ameaçado",
+        "risco": "Sob observação 🟡",
+        "dias": 4,
+        "predadores": "Não"
+    },
+    {
+        "id": 3,
+        "regiao": "Praia Sul",
+        "ovos": 14,
+        "status": "Danificado",
+        "risco": "Crítico 🔴",
+        "dias": 5,
+        "predadores": "Sim"
+    },
+    {
+        "id": 4,
+        "regiao": "Praia Norte",
+        "ovos": 15,
+        "status": "Intacto",
+        "risco": "Estável 🟢",
+        "dias": 6,
+        "predadores": "Não"
+    },
+    {
+        "id": 5,
+        "regiao": "Praia Central",
+        "ovos": 16,
+        "status": "Ameaçado",
+        "risco": "Sob observação 🟡",
+        "dias": 7,
+        "predadores": "Sim"
+    },
+    {
+        "id": 6,
+        "regiao": "Praia Sul",
+        "ovos": 12,
+        "status": "Danificado",
+        "risco": "Crítico 🔴",
+        "dias": 8,
+        "predadores": "Não"
+    },
+    {
+        "id": 7,
+        "regiao": "Praia Norte",
+        "ovos": 13,
+        "status": "Intacto",
+        "risco": "Estável 🟢",
+        "dias": 9,
+        "predadores": "Sim"
+    },
+    {
+        "id": 8,
+        "regiao": "Praia Central",
+        "ovos": 14,
+        "status": "Ameaçado",
+        "risco": "Sob observação 🟡",
+        "dias": 3,
+        "predadores": "Não"
+    },
+    {
+        "id": 9,
+        "regiao": "Praia Sul",
+        "ovos": 15,
+        "status": "Danificado",
+        "risco": "Crítico 🔴",
+        "dias": 4,
+        "predadores": "Sim"
+    },
+    {
+        "id": 10,
+        "regiao": "Praia Norte",
+        "ovos": 16,
+        "status": "Intacto",
+        "risco": "Estável 🟢",
+        "dias": 5,
+        "predadores": "Não"
+    }
+]
