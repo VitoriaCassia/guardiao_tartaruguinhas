@@ -24,8 +24,8 @@ de jovens no cuidado com a natureza, conectando conhecimento tradicional e tecno
 ## 🧰 Tecnologias Utilizadas
 
 - Python 3.13
+- pyter Notebook** (etapa inicial de desenvolvimento)
 - Streamlit
-- Pandas
-- Jupyter Notebook** (etapa inicial de desenvolvimento)
+
 
 
