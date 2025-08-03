@@ -27,5 +27,5 @@ de jovens no cuidado com a natureza, conectando conhecimento tradicional e tecno
 - Streamlit
 - Pandas
 - Jupyter Notebook** (etapa inicial de desenvolvimento)
-- GitHub (controle de versão e hospedagem)
+
 
